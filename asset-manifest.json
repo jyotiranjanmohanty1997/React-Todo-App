@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Todo-App/static/css/main.7ec7a463.css",
+    "main.js": "/React-Todo-App/static/js/main.f633ef25.js",
+    "static/js/453.ac79db8d.chunk.js": "/React-Todo-App/static/js/453.ac79db8d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/React-Todo-App/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/React-Todo-App/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/React-Todo-App/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/React-Todo-App/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/React-Todo-App/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/React-Todo-App/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/React-Todo-App/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/React-Todo-App/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/React-Todo-App/index.html",
+    "main.7ec7a463.css.map": "/React-Todo-App/static/css/main.7ec7a463.css.map",
+    "main.f633ef25.js.map": "/React-Todo-App/static/js/main.f633ef25.js.map",
+    "453.ac79db8d.chunk.js.map": "/React-Todo-App/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec7a463.css",
+    "static/js/main.f633ef25.js"
+  ]
+}
